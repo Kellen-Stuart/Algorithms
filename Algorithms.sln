@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{035A82A3-37EC-472C-8752-6B975146E193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{E727C86C-58B5-4EED-95E8-5A543D85F093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035A82A3-37EC-472C-8752-6B975146E193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035A82A3-37EC-472C-8752-6B975146E193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035A82A3-37EC-472C-8752-6B975146E193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035A82A3-37EC-472C-8752-6B975146E193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E727C86C-58B5-4EED-95E8-5A543D85F093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E727C86C-58B5-4EED-95E8-5A543D85F093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E727C86C-58B5-4EED-95E8-5A543D85F093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E727C86C-58B5-4EED-95E8-5A543D85F093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
