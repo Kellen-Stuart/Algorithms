@@ -70,15 +70,12 @@ namespace DataStructures
             // Merge smaller component/set into the larger one
             if (Sz[root1] < Sz[root2])
             {
-                //
                 Sz[root2] += Sz[root1];
                 Id[root1] = root2;
                 Sz[root1] = 0;
             }
             else
             {
-                
-                // Sz[0] += Sz[2]
                 Sz[root1] += Sz[root2];
                 Id[root2] = root1;
                 Sz[root2] = 0;
